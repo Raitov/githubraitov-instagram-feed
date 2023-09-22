@@ -1,0 +1,51 @@
+* {
+    font-family:Helvetica;
+}
+
+body {
+    background:lightgray       
+}
+.header {
+    background: white;
+    height: 50px;
+    align-items: center;
+    justify-content: center; 
+    display: flex;
+}
+.flex_container {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+       
+}
+.photo_name {
+    background: white;
+    height: 50px;
+    width: 250px;
+    padding-top: 1em;
+                
+}
+.photo_number {
+    background: white;
+    height: 50px;
+    width: 250px;
+    text-align:right;
+    padding-top: 1em;
+        
+}
+.box {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.box_2 {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer {
+    background: white;
+    height: 80px;
+    width: 500px;
+}
